@@ -18,10 +18,4 @@ Este projeto foi desenvolvido utilizando as melhores práticas de desenvolviment
 
 ## 📸 Demonstração
 Você pode visualizar o site em funcionamento através do link abaixo:
-👉 [CLIQUE AQUI PARA VER O SITE](https://seu-usuario.github.io/papelaria-plaza/) 
-*(Substitua "seu-usuario" pelo seu nome de usuário no GitHub)*
-
-## 🛠️ Como usar este repositório
-1. Faça o clone do projeto:
-   ```bash
-   git clone [https://github.com/seu-usuario/papelaria-plaza.git](https://github.com/seu-usuario/papelaria-plaza.git)
+👉 [CLIQUE AQUI PARA VER O SITE](https://seu-usuario.github.io/papelaria-plaza/
